@@ -5,6 +5,11 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+        /*
+                Me pide user y pass al hacer push en git con ssh configurado!!
+                Solucionar!!!
+        */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
